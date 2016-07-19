@@ -1,0 +1,12 @@
+D:\Personal\GitHub\our\Our\Our\bin\Debug\Our.dll
+D:\Personal\GitHub\our\Our\Our\bin\Debug\Our.pdb
+D:\Personal\GitHub\our\Our\Our\bin\Debug\Xamarin.Forms.Core.dll
+D:\Personal\GitHub\our\Our\Our\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Personal\GitHub\our\Our\Our\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Personal\GitHub\our\Our\Our\bin\Debug\Xamarin.Forms.Core.xml
+D:\Personal\GitHub\our\Our\Our\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Personal\GitHub\our\Our\Our\obj\Debug\Our.csprojResolveAssemblyReference.cache
+D:\Personal\GitHub\our\Our\Our\obj\Debug\Our.dll
+D:\Personal\GitHub\our\Our\Our\obj\Debug\Our.pdb
+D:\Personal\GitHub\our\Our\Our\obj\Debug\Our.dll.mdb
+D:\Personal\GitHub\our\Our\Our\bin\Debug\Our.dll.mdb
